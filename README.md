@@ -8,6 +8,7 @@
 - 💬 Ask me about **C#, HTML, CSS and Reac**
 
 - ⚡ Fun fact **I look younger than my age :D**
+- [![minhtam257's GitHub | Stats](https://stats.quira.sh/minhtam257/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=minhtam257)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
